@@ -1,4 +1,5 @@
 
+alert("Esta es una calculadora de promedios para notas de materias universitarias, los estudiantes podran saber cuanto es el promedio total de su materia al tener las tres notas")
 function calcular(){
     let nombre = document.getElementById("nombre").value;
 
