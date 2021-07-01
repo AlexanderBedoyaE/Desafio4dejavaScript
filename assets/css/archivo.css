@@ -1,0 +1,34 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    margin-top:20px;
+}
+
+label h4{
+    text-align: center;
+}
+
+.casilla{
+    margin-left: 40%;
+    width: 20vw;
+    height: 5vh;
+}
+
+.envio{
+    margin-left: 48%;
+    width: 5vw;
+    height: 5vh;
+}
+
+.parrafo{
+    text-align: center;
+    margin-top: 12px;
+    font-size: 17pt;
+}
