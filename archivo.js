@@ -22,3 +22,11 @@ function calcular(){
         alert("no hay probabilidad de pasar lo siento :...(");
     }
 }
+
+function limpiar(){
+    let nombre = document.getElementById("nombre").value="";
+
+    let rsd1 = document.getElementById("nota1").value="";
+    let rsd2 = document.getElementById("nota2").value="";
+    let rsd3 = document.getElementById("nota3").value="";
+}
